@@ -7,3 +7,4 @@ node_modules
 .env.*
 !.env.example
 sveltekit-cart-app-firebase-adminsdk-rfo85-393e3e4258.json
+.npmrc
